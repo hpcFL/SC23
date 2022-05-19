@@ -1,4 +1,4 @@
-# SC'22: The First Workshop on Federated and Privacy Preserving AI for HPC
+# SC'22 Workshop (Nov 14, 2022)
 
 ## Goal
 
