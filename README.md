@@ -11,4 +11,19 @@ The inundation of data generation technologies, along with progress in Artificia
 
 * Eric Lançon,  elancon@bnl.gov, Brookhaven National Laboratory
 
+* Prerna Dogra, pdogra@nvidia.com, Nvidia Corporation
+
+* Massimo Mascaro, massy@google.com, Google Inc.
+
+## Workshop Scope:
+
+Our workshop will aim to gather stakeholders from academia, federal agencies, industry, and national laboratories to present state-of-the-art research and technologies for federated and privacy-preserving AI in HPC. We will lead and facilitate discussions on problems facing and solutions discovered for developing and researching federated learning systems, such as balancing the trade-offs between model accuracy, data privacy, and overall computational performance. The workshop will include presentations on attacks on data privacy in distributed systems, differential privacy, domain and task-specific algorithms, etc. as well as real-world applications of privacy preserving AI. Other questions for this burgeoning community include (1) what are potential collaborative and open HPC platforms and technologies for researchers and application engineers to leverage; (2) what are key metrics of success for these applications; and (3) how will the long-term security of these systems be maintained and ensured. 
+
+## Agenda
+
+Coming!
+
+## Date:
+
+Nov 14, 2022
 
