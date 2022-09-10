@@ -22,7 +22,7 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 
 ## Agenda 
 
-Nov 14, 2022 (Dallas local time)
+Nov 14, 2022 (Dallas, TX local time)
 
 <!-- <span style="display: inline-block; width:400px">Speaker</span> -->
 
