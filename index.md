@@ -25,7 +25,7 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 ### Georgia Tourassi
 *Division Director, Oak Ridge National Laboratory (ORNL)*
 
-<div class="bio-image"><img src="/images/Gina2.png"></div>
+<div class="bio-image"><img src="/images/g-tourassi.png"></div>
 
 TODO: Bio
 
@@ -33,7 +33,7 @@ TODO: Bio
 ### Jaideep Vaidya
 *Distinguished Professor, Rutgers University*
 
-<div class="bio-image"><img src="/images/jsvaidya-new.jpg"/></div>
+<div class="bio-image"><img src="/images/j-vaidya.jpg"/></div>
 
 Jaideep Vaidya is a Distinguished Professor in the MSIS Department at Rutgers University. He received the B.E. degree in
 Computer Engineering from the University of Mumbai, the M.S. and Ph.D. degree in Computer Science from Purdue University.
@@ -47,7 +47,7 @@ Computing.
 ### Prerna Dogra
 *Senior Manager for Healthcare AI, NVIDIA*
 
-<div class="bio-image"><img src="/images/Prerna.png"/></div>
+<div class="bio-image"><img src="/images/p-dogra.png"/></div>
 
 Prerna Dogra is a Senior Manager for Healthcare AI Products at NVIDIA, where she leads the collaborative open-source
 Project MONAI and Nvidia Federated Learning. She is responsible for productizing domain specialized developer platforms,
@@ -73,7 +73,7 @@ plays an important role in applying large-scale data analysis, deep learning to 
 ### Kenny Cha
 *Assistant Director, U.S. Food and Drug Administration (FDA)*
 
-<div class="bio-image"><img src="/images/KennyCha.jpg"/></div>
+<div class="bio-image"><img src="/images/k-cha.jpg"/></div>
 
 Kenny H. Cha is the Assistant Director for Software and High-Performance Computing in the Division of Imaging,
 Diagnostics, and Software Reliability within the U.S. Food and Drug Administration, Center for Devices and Radiological
@@ -86,7 +86,7 @@ of the HPC to enable these research.
 ### Patricia Florssi
 *Technical Director, Google Cloud*
 
-<div class="bio-image"><img src="/images/Florissi2.png"/></div>
+<div class="bio-image"><img src="/images/p-florssi.png"/></div>
 
 Patricia Florissi is a Technical Director at the Office of the CTO at Google Cloud. As a member of the Office of the
 CTO, Patricia leads collaborative innovation projects with customers, working on disruptive technologies. Patricia
