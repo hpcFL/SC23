@@ -2,3 +2,32 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.bio-image {
+    display: inline;
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+.bio-image img {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.bio-image + p {
+    min-height: 200px;
+}
+
+// Hack to select the table while still using mardown style tables
+#agenda-table {
+    display: none; 
+}
+
+#agenda-table + table tr td:nth-child(1) {
+    white-space: nowrap;
+}
+
+#agenda-table + table tr td:nth-child(2) {
+    white-space: nowrap;
+}
