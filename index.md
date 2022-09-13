@@ -31,7 +31,13 @@ pdogra@nvidia.com, Nvidia Corporation
 
 ### Massimo Mascaro
 
-massy@google.com, Google Inc.
+Techical Director, Applied AI, Google Inc.
+
+<div class="bio-image"><img src="/images/massimo.png"></div>
+
+
+Massimo is part of the Office of the CTO for Google Cloud and, in this role, he helps Google Cloud customers reimagine their businesses by leveraging the power of AI and the products from Google that enable it. Prior to Google he worked at Intuit where he founded and led the data science group as chief data scientist and director of data engineering. Massimo also worked as lead of R&D at Intellisis, a San Diego startup that builds advanced speech processing software for various US government and defense entities. Prior to that he was at Microsoft, both in the Core Ranking team for Bing and in the Technical Computing Team. Massimo started in theoretical physics and has a PhD in Computational Neuroscience. In his research work he studied the dynamics of large recurrent neural networks, their connections with attention and the ability of networks to mesh signals from different modalities.
+
 
 ## Workshop Scope:
 
