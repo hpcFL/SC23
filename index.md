@@ -8,20 +8,6 @@ The inundation of data generation technologies, along with progress in Artificia
 
 ## Workshop Organizer:
 
-* Georgia Tourassi, tourassig@ornl.gov, Oak Ridge National Laboratory
-
-* Eric Lançon,  elancon@bnl.gov, Brookhaven National Laboratory
-
-* Prerna Dogra, pdogra@nvidia.com, Nvidia Corporation
-
-* Massimo Mascaro, massy@google.com, Google Inc.
-
-## Workshop Scope:
-
-Our workshop will aim to gather stakeholders from academia, federal agencies, industry, and national laboratories to present state-of-the-art research and technologies for federated and privacy-preserving AI in HPC. We will lead and facilitate discussions on problems facing and solutions discovered for developing and researching federated learning systems, such as balancing the trade-offs between model accuracy, data privacy, and overall computational performance. The workshop will include presentations on attacks on data privacy in distributed systems, differential privacy, domain and task-specific algorithms, etc. as well as real-world applications of privacy preserving AI. Other questions for this burgeoning community include (1) what are potential collaborative and open HPC platforms and technologies for researchers and application engineers to leverage; (2) what are key metrics of success for these applications; and (3) how will the long-term security of these systems be maintained and ensured. 
-
-## Speakers
-
 ### Georgia Tourassi
 *Division Director, Oak Ridge National Laboratory (ORNL)*
 
@@ -29,6 +15,29 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 
 TODO: Bio
 
+
+### Eric Lançon
+*Brookhaven National Laboratory*
+
+<div class="bio-image"><img src="/images/eric.png"></div>
+
+
+Dr. Eric Lancon is the Director of the Scientific Data and Computing Center at Brookhaven National Laboratory. He worked at CERN (European Laboratory for Particle Physics, Geneva, Switzerland), where he held leadership positions in computing for the Large Hadron Collider (LHC). He developed international project s on distributed computing in China, Japan, and Romania.  He has interests in data management and data science. He obtained a Ph.D. in particle physics.
+
+
+### Prerna Dogra
+
+pdogra@nvidia.com, Nvidia Corporation
+
+### Massimo Mascaro
+
+massy@google.com, Google Inc.
+
+## Workshop Scope:
+
+Our workshop will aim to gather stakeholders from academia, federal agencies, industry, and national laboratories to present state-of-the-art research and technologies for federated and privacy-preserving AI in HPC. We will lead and facilitate discussions on problems facing and solutions discovered for developing and researching federated learning systems, such as balancing the trade-offs between model accuracy, data privacy, and overall computational performance. The workshop will include presentations on attacks on data privacy in distributed systems, differential privacy, domain and task-specific algorithms, etc. as well as real-world applications of privacy preserving AI. Other questions for this burgeoning community include (1) what are potential collaborative and open HPC platforms and technologies for researchers and application engineers to leverage; (2) what are key metrics of success for these applications; and (3) how will the long-term security of these systems be maintained and ensured. 
+
+## Speakers
 
 ### Jaideep Vaidya
 *Distinguished Professor, Rutgers University*
@@ -58,6 +67,9 @@ Healthcare and building an open ecosystem of collaborative partners.
 
 ### Ravi K Madduri
 *Research Scientist, Argonne National Laboratory*
+
+<div class="bio-image"><img src="/images/ravi.jpg"/></div>
+
 
 Ravi is a computer scientist in the Data Science and Learning division at Argonne National Laboratory and at the
 University of Chicago Consortium for Advanced Science and Engineering. He is an innovation fellow at the Polsky Center
@@ -98,8 +110,12 @@ degree in computer science from the Universidade Federal de Pernambuco, in Brazi
 
 ### Ryan Adamson
 *Group Leader, ORNL*
-
 HPC Cybersecurity and Information Engineerings, ORNL
+
+<div class="bio-image"><img src="/images/ryan.jpg"/></div>
+
+Ryan leads the HPC Security and Information Engineering Group at the Oak Ridge Leadership Computing Facility (OLCF). His group is responsible for delivering highly-scalable and reliable security services and telemetry platforms to the high-performance computing resources and staff at the OLCF.  His background in Linux systems administration at scale helps him understand the nuances of system complexity when developing solutions to security and operational mandates. Overall, Ryan enjoys tackling technical challenges and tries to find creative ways to safely and efficiently enable research when OLCF security policy, technical computational limitations, or other roadblocks chafe against the OLCF research mission.  He holds a masters degree in computer science from the University of Tennessee and previously was a certified GIAC Exploit Researcher And Advanced Penetration Tester (GXPN). He is currently pursuing a PhD in Engineering from Tennessee Tech University with a focus on the challenges overlapping the HPC and Security disciplines.
+
 
 ## Agenda
 Nov 14, 2022 (Dallas, TX local time)
@@ -114,5 +130,5 @@ Nov 14, 2022 (Dallas, TX local time)
 | 9:40AM - 10:05AM  | Ravi K Madduri   | Application of Privacy Preserving Federated Learning in Biomedical applications <br/> *Lessons learned from the PALISADE-X project*  |
 | 10:05AM - 10:30AM | Kenny Cha        | HPC at the FDA <br/> *Data reuse concepts for AI*                                                                                    |
 | 10:30AM - 10:55AM | Patricia Florssi | Federated Computations and the Digital Rights Movement                                                                               |
-| 10:55AM - 11:20AM | Ryan Adamson,    | TBD                                                                                                                                  |
+| 10:55AM - 11:20AM | Ryan Adamson,    | Securing Federated Learning Capabilities Within an Exascale Environment                                                                                                                                  |
 | 11:20AM - 12:00PM | Panel Discussion |                                                                                                                                      |
