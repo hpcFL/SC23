@@ -38,6 +38,24 @@ Techical Director, Applied AI, Google Inc.
 
 Massimo is part of the Office of the CTO for Google Cloud and, in this role, he helps Google Cloud customers reimagine their businesses by leveraging the power of AI and the products from Google that enable it. Prior to Google he worked at Intuit where he founded and led the data science group as chief data scientist and director of data engineering. Massimo also worked as lead of R&D at Intellisis, a San Diego startup that builds advanced speech processing software for various US government and defense entities. Prior to that he was at Microsoft, both in the Core Ranking team for Bing and in the Technical Computing Team. Massimo started in theoretical physics and has a PhD in Computational Neuroscience. In his research work he studied the dynamics of large recurrent neural networks, their connections with attention and the ability of networks to mesh signals from different modalities.
 
+### Feiyi Wang
+
+Group Leader, Analytics and AI Methods at Scale
+Oak Ridge National Laboratory
+
+<div class="bio-image"><img src="/images/feiyi.png"></div>
+
+Feiyi Wang received his Ph.D. in Computer Engineering from North Carolina
+State University (NCSU). Prior joining the Oak Ridge National Laboratory
+(ORNL), he was a principal research scientist at Microelectronic Center of
+North Carolina (MCNC) and the lead PI and Co-PI for several DARPA-funded
+projects. He is a currently a Senior Research Scientist and the Group Leader
+of Analytics and AI methods at Scale Group (AAIMS) at National Center for
+Computational Sciences of ORNL. His research interests include large-scale
+data analytics, distributed machine learning and scalable benchmarking, high
+performance storage system, parallel I/O and file systems.  Dr. Wang held
+Joint Faculty Professor of ECE Department, Bredesen Center Faculty position at
+University of Tennessee. He is also a Senior Member of IEEE.
 
 ## Workshop Scope:
 
