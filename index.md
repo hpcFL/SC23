@@ -40,8 +40,7 @@ Massimo is part of the Office of the CTO for Google Cloud and, in this role, he 
 
 ### Feiyi Wang
 
-Group Leader, Analytics and AI Methods at Scale
-Oak Ridge National Laboratory
+Group Leader, Analytics and AI Methods at Scale, Oak Ridge National Laboratory
 
 <div class="bio-image"><img src="/images/feiyi.png"></div>
 
