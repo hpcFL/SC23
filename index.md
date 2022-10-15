@@ -13,7 +13,10 @@ The inundation of data generation technologies, along with progress in Artificia
 
 <div class="bio-image"><img src="/images/g-tourassi.png"></div>
 
-TODO: Bio
+Georgia (Gina) Tourassi is the Director of the National Center for Computational Sciences and the Oak Ridge Leadership Computing Facility at Oak Ridge National Laboratory. She joined ORNL in 2011 as the director of the Biomedical Sciences and Engineering Center after a long academic career in the department of radiology and the medical physics graduate program at Duke University Medical Center. In addition, she is an adjunct professor of radiology at Duke University and the University of Tennessee Graduate School of Medicine, joint UT-ORNL faculty of Mechanical, Aerospace, and Biomedical Engineering at the University of Tennessee at Knoxville and the Bredesen Center.
+
+Dr. Tourassi’s research background and interests are in artificial intelligence, scalable data-driven biomedical discovery, high-performance computing, clinical decision support, and human-computer interaction. Her scholarly work includes more than 250 peer-reviewed journal articles, conference proceedings articles, book chapters, editorials, and conference abstracts (https://scholar.google.com/citations?user=O_0diUoAAAAJ&hl=en) as well as 15 invention disclosures and patents. 
+
 
 
 ### Eric Lançon
