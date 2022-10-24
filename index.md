@@ -136,7 +136,7 @@ degree in computer science from the Universidade Federal de Pernambuco, in Brazi
 
 ### Ryan Adamson
 *Group Leader, ORNL*
-HPC Cybersecurity and Information Engineerings, ORNL
+HPC Cybersecurity and Information Engineering, ORNL
 
 <div class="bio-image"><img src="/images/ryan.jpg"/></div>
 
