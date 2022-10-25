@@ -156,5 +156,5 @@ Nov 14, 2022 (Dallas, TX local time)
 | 9:40AM - 10:05AM  | Ravi K Madduri   | Application of Privacy Preserving Federated Learning in Biomedical applications <br/> *Lessons learned from the PALISADE-X project*  |
 | 10:05AM - 10:30AM | Kenny Cha        | HPC at the FDA <br/> *Data reuse concepts for AI*                                                                                    |
 | 10:30AM - 10:55AM | Patricia Florssi | Federated Computations and the Digital Rights Movement                                                                               |
-| 10:55AM - 11:20AM | Ryan Adamson,    | Securing Federated Learning Capabilities Within an Exascale Environment                                                                                                                                  |
+| 10:55AM - 11:20AM | Ryan Adamson     | Securing Federated Learning Capabilities Within an Exascale Environment                                                                                                                                  |
 | 11:20AM - 12:00PM | Panel Discussion |                                                                                                                                      |
