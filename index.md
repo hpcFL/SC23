@@ -11,7 +11,7 @@ The inundation of data generation technologies, along with progress in Artificia
 ### Georgia Tourassi
 *Division Director, Oak Ridge National Laboratory (ORNL)*
 
-<div class="bio-image"><img src="/images/g-tourassi.png"></div>
+<div class="bio-image"><img src="images/g-tourassi.png"></div>
 
 Georgia (Gina) Tourassi is the Director of the National Center for Computational Sciences and the Oak Ridge Leadership Computing Facility at Oak Ridge National Laboratory. She joined ORNL in 2011 as the director of the Biomedical Sciences and Engineering Center after a long academic career in the department of radiology and the medical physics graduate program at Duke University Medical Center. In addition, she is an adjunct professor of radiology at Duke University and the University of Tennessee Graduate School of Medicine, joint UT-ORNL faculty of Mechanical, Aerospace, and Biomedical Engineering at the University of Tennessee at Knoxville and the Bredesen Center.
 
@@ -22,7 +22,7 @@ Dr. Tourassi’s research background and interests are in artificial intelligenc
 ### Eric Lançon
 *Brookhaven National Laboratory*
 
-<div class="bio-image"><img src="/images/eric.png"></div>
+<div class="bio-image"><img src="images/eric.png"></div>
 
 
 Dr. Eric Lancon is the Director of the Scientific Data and Computing Center at Brookhaven National Laboratory. He worked at CERN (European Laboratory for Particle Physics, Geneva, Switzerland), where he held leadership positions in computing for the Large Hadron Collider (LHC). He developed international project s on distributed computing in China, Japan, and Romania.  He has interests in data management and data science. He obtained a Ph.D. in particle physics.
@@ -36,7 +36,7 @@ pdogra@nvidia.com, Nvidia Corporation
 
 Techical Director, Applied AI, Google Inc.
 
-<div class="bio-image"><img src="/images/massimo.png"></div>
+<div class="bio-image"><img src="images/massimo.png"></div>
 
 
 Massimo is part of the Office of the CTO for Google Cloud and, in this role, he helps Google Cloud customers reimagine their businesses by leveraging the power of AI and the products from Google that enable it. Prior to Google he worked at Intuit where he founded and led the data science group as chief data scientist and director of data engineering. Massimo also worked as lead of R&D at Intellisis, a San Diego startup that builds advanced speech processing software for various US government and defense entities. Prior to that he was at Microsoft, both in the Core Ranking team for Bing and in the Technical Computing Team. Massimo started in theoretical physics and has a PhD in Computational Neuroscience. In his research work he studied the dynamics of large recurrent neural networks, their connections with attention and the ability of networks to mesh signals from different modalities.
@@ -45,7 +45,7 @@ Massimo is part of the Office of the CTO for Google Cloud and, in this role, he 
 
 Group Leader, Analytics and AI Methods at Scale, Oak Ridge National Laboratory
 
-<div class="bio-image"><img src="/images/feiyi.png"></div>
+<div class="bio-image"><img src="images/feiyi.png"></div>
 
 Feiyi Wang received his Ph.D. in Computer Engineering from North Carolina
 State University (NCSU). Prior joining the Oak Ridge National Laboratory
@@ -68,7 +68,7 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 ### Jaideep Vaidya
 *Distinguished Professor, Rutgers University*
 
-<div class="bio-image"><img src="/images/j-vaidya.jpg"/></div>
+<div class="bio-image"><img src="images/j-vaidya.jpg"/></div>
 
 Jaideep Vaidya is a Distinguished Professor in the MSIS Department at Rutgers University. He received the B.E. degree in
 Computer Engineering from the University of Mumbai, the M.S. and Ph.D. degree in Computer Science from Purdue University.
@@ -82,7 +82,7 @@ Computing.
 ### Prerna Dogra
 *Senior Manager for Healthcare AI, NVIDIA*
 
-<div class="bio-image"><img src="/images/p-dogra.png"/></div>
+<div class="bio-image"><img src="images/p-dogra.png"/></div>
 
 Prerna Dogra is a Senior Manager for Healthcare AI Products at NVIDIA, where she leads the collaborative open-source
 Project MONAI and Nvidia Federated Learning. She is responsible for productizing domain specialized developer platforms,
@@ -94,7 +94,7 @@ Healthcare and building an open ecosystem of collaborative partners.
 ### Ravi K Madduri
 *Research Scientist, Argonne National Laboratory*
 
-<div class="bio-image"><img src="/images/ravi.jpg"/></div>
+<div class="bio-image"><img src="images/ravi.jpg"/></div>
 
 
 Ravi is a computer scientist in the Data Science and Learning division at Argonne National Laboratory and at the
@@ -111,7 +111,7 @@ plays an important role in applying large-scale data analysis, deep learning to 
 ### Kenny Cha
 *Assistant Director, U.S. Food and Drug Administration (FDA)*
 
-<div class="bio-image"><img src="/images/k-cha.jpg"/></div>
+<div class="bio-image"><img src="images/k-cha.jpg"/></div>
 
 Kenny H. Cha is the Assistant Director for Software and High-Performance Computing in the Division of Imaging,
 Diagnostics, and Software Reliability within the U.S. Food and Drug Administration, Center for Devices and Radiological
@@ -124,7 +124,7 @@ of the HPC to enable these research.
 ### Patricia Florssi
 *Technical Director, Google Cloud*
 
-<div class="bio-image"><img src="/images/p-florssi.png"/></div>
+<div class="bio-image"><img src="images/p-florssi.png"/></div>
 
 Patricia Florissi is a Technical Director at the Office of the CTO at Google Cloud. As a member of the Office of the
 CTO, Patricia leads collaborative innovation projects with customers, working on disruptive technologies. Patricia
@@ -138,7 +138,7 @@ degree in computer science from the Universidade Federal de Pernambuco, in Brazi
 *Group Leader, ORNL*
 HPC Cybersecurity and Information Engineering, ORNL
 
-<div class="bio-image"><img src="/images/ryan.jpg"/></div>
+<div class="bio-image"><img src="images/ryan.jpg"/></div>
 
 Ryan leads the HPC Security and Information Engineering Group at the Oak Ridge Leadership Computing Facility (OLCF). His group is responsible for delivering highly-scalable and reliable security services and telemetry platforms to the high-performance computing resources and staff at the OLCF.  His background in Linux systems administration at scale helps him understand the nuances of system complexity when developing solutions to security and operational mandates. Overall, Ryan enjoys tackling technical challenges and tries to find creative ways to safely and efficiently enable research when OLCF security policy, technical computational limitations, or other roadblocks chafe against the OLCF research mission.  He holds a masters degree in computer science from the University of Tennessee and previously was a certified GIAC Exploit Researcher And Advanced Penetration Tester (GXPN). He is currently pursuing a PhD in Engineering from Tennessee Tech University with a focus on the challenges overlapping the HPC and Security disciplines.
 
