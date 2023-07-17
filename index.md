@@ -24,8 +24,17 @@ Dr. Tourassi’s research background and interests are in artificial intelligenc
 
 <div class="bio-image"><img src="images/eric.png"></div>
 
-
 Dr. Eric Lancon is the Director of the Scientific Data and Computing Center at Brookhaven National Laboratory. He worked at CERN (European Laboratory for Particle Physics, Geneva, Switzerland), where he held leadership positions in computing for the Large Hadron Collider (LHC). He developed international project s on distributed computing in China, Japan, and Romania.  He has interests in data management and data science. He obtained a Ph.D. in particle physics.
+
+
+
+### Irina Rish
+*Université de Montréal*
+
+<div class="bio-image"><img src="images/irina-rish.jpg"></div>
+
+Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM), and a core member of Mila - Quebec AI Institute. She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Dr Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. Before joining UdeM in 2019, Irina was a research scientist at the IBM T.J. Watson Research Center, where she worked on various projects at the intersection of neuroscience and AI, and led the Neuro-AI challenge. She received multiple IBM awards, including IBM Eminence & Excellence Award and IBM Outstanding Innovation Award in 2018, IBM Outstanding Technical Achievement Award in 2017, and IBM Research Accomplishment Award in 2009. Dr. Rish holds 64 patents, has published over 70 peer-reviewed research papers, several book chapters, three edited books, and a monograph on Sparse Modeling.
+
 
 
 ### Prerna Dogra
