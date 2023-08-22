@@ -38,8 +38,7 @@ Irina Rish is a Full Professor in the Computer Science and Operations Research D
 
 
 ### Feiyi Wang
-
-Group Leader, Analytics and AI Methods at Scale, Oak Ridge National Laboratory
+*Group Leader, Analytics and AI Methods at Scale, Oak Ridge National Laboratory*
 
 <div class="bio-image"><img src="images/feiyi.png"></div>
 
@@ -61,6 +60,8 @@ University of Tennessee. He is also a Senior Member of IEEE.
 
 Our workshop will aim to gather stakeholders from academia, federal agencies, industry, and national laboratories to present state-of-the-art research and technologies for federated and privacy-preserving AI in HPC. We will lead and facilitate discussions on problems facing and solutions discovered for developing and researching federated learning systems, such as balancing the trade-offs between model accuracy, data privacy, and overall computational performance. The workshop will include presentations on attacks on data privacy in distributed systems, differential privacy, domain and task-specific algorithms, etc. as well as real-world applications of privacy preserving AI. Other questions for this burgeoning community include (1) what are potential collaborative and open HPC platforms and technologies for researchers and application engineers to leverage; (2) what are key metrics of success for these applications; and (3) how will the long-term security of these systems be maintained and ensured. 
 
+
+
 ## Speakers
 
 ### Jian Liu
@@ -71,22 +72,38 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 Jian Liu is an Assistant Professor in the Min H. Kao Department of Electrical Engineering and Computer Science at The University of Tennessee, Knoxville (UTK). He leads Mobile Sensing and Intelligence Security (MoSIS) Lab @ UTK. Before joining UTK, Dr. Liu received his Ph.D. degree from Rutgers, The State University of New Jersey. His research interests span Robust and Trustworthy AI and ML, Mobile Security, Mobile and Wearable Computing, and Smart Healthcare. His research work has been published at top-tier security/mobile-computing/HCI/AI venues (e.g., ACM MobiCom, IEEE S&P, ACM CCS, CVPR, AAAI, ECCV, ACM MobiSys, ACM SenSys, ACM UbiComp, and ICASSP) and has been regularly featured in the media including BBC News, Yahoo News, MIT Technology Review, NBC New York, IEEE Spectrum, WCBS TV, and Voice of America TV, etc. He is the recipient of multiple awards, including two Best Paper Awards at IEEE SECON 2017 and IEEE CNS 2018, ACM SigMobile Research Highlights 2022, and ECE Graduate Program Academic Achievement Award at Rutgers, etc. He also filed six U.S. patents, two of which have been licensed to industrial companies. For more information, please refer to his homepage at: <https://web.eecs.utk.edu/~jliu/>
 
 
+### Sathyanarayanan Manamohan
+*Hewlett-Packard Enterprise*
+
+<div class="bio-image"><img src="images/s-manamohan.jpg"/></div>
+
+Sathyanarayanan Manamohan is a Master technologist with the Advanced Development Center in Hewlett-Packard Enterprise. He is the co-inventor of the Swarm Learning decentralized federated learning platform. He has 23 years of industry expertise in Query optimization in parallel and distributed database environments, Federated Machine learning and Blockchain technology. He has completed in his master’s in software systems. Has several patents in the decentralized machine learning and computation. His areas of work and research include Machine Learning, Federated machine learning and Explainable AI.
+
+
+### Heidi Hanson
+*Senior Scientist, Advanced Computing for Health Sciences, Oak Ridge National Laboratory*
+
+<div class="bio-image"><img src="images/h-hanson.jpg"/></div>
+
+Heidi is the Group Lead of Biostatistics and Biomedical Informatics at Oak Ridge National Laboratory. She leads the DOE-NCI Modeling Outcomes using Surveillance Data and Scalable Artificial Intelligence for Cancer (MOSSAIC) partnership, focused on advancing computing, predictive machine learning/deep learning models, and large-scale computational simulations for NCI-supported cancer research. Her research interests include developing computational tools that facilitate population-scale health research.  
+
+
 
 ## Agenda
 Nov 14, 2022 (Dallas, TX local time)
 
 <div id="agenda-table"></div>
 
-|                   | Speaker          | Title                                                                                                                                |
-|------------------:|------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| 8:30AM - 8:35AM   | Georgia Tourassi | Opening Remarks                                                                                                                      |
-| 8:35AM - 9:15AM   | Jian Liu         | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning                                                         |
-| 9:15AM - 9:40AM   | TBD              | TBD                                                                                                                                  |
-| 9:40AM - 10:05AM  | TBD              | TBD                                                                                                                                  |
-| 10:05AM - 10:30AM | TBD              | TBD                                                                                                                                  |
-| 10:30AM - 10:55AM | TBD              | TBD                                                                                                                                  |
-| 10:55AM - 11:20AM | TBD              | TBD                                                                                                                                  |
-| 11:20AM - 12:00PM | Panel Discussion |                                                                                                                                      |
+|                   | Speaker                   | Title                                                                           |
+|------------------:|---------------------------|---------------------------------------------------------------------------------|
+| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                 |
+| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning    |
+| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning              |
+| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                |
+| 10:05AM - 10:30AM | TBD                       | TBD                                                                             |
+| 10:30AM - 10:55AM | TBD                       | TBD                                                                             |
+| 10:55AM - 11:20AM | TBD                       | TBD                                                                             |
+| 11:20AM - 12:00PM | Panel Discussion          |                                                                                 |
 
 
 <br/>
