@@ -88,22 +88,29 @@ Sathyanarayanan Manamohan is a Master technologist with the Advanced Development
 Heidi is the Group Lead of Biostatistics and Biomedical Informatics at Oak Ridge National Laboratory. She leads the DOE-NCI Modeling Outcomes using Surveillance Data and Scalable Artificial Intelligence for Cancer (MOSSAIC) partnership, focused on advancing computing, predictive machine learning/deep learning models, and large-scale computational simulations for NCI-supported cancer research. Her research interests include developing computational tools that facilitate population-scale health research.  
 
 
+### Ryan Coffee
+*Senior Scientist, SLAC National Accelerator Laboratory*
+
+<div class="bio-image"><img src="images/r-coffee.jpg"/></div>
+
+Ryan Coffee is Senior Staff Research Scientist and has been leading R&D for basic energy science at the world's premiere x-ray free electron laser at SLAC since its inception in 2009.  He is driving an integrative approach to instrumentation and co-design of computing across the portfolio of Department of Energy labs and facilities, from diagnostic and detector development to algorithms and computing, from the sensor Edge to Leadership Computing Facilities.  Atomic, molecular, and optical physics is Ryan's scientific origin and continues to serve as his proving ground for high-speed streaming data interpretation and information extraction and the optimal co-design of compute and sensor hardware.  By exploring spin off applications, like his LCLS femtosecond timing solution utilized for improving resolution in PET imaging, there is an emerging need for cross-discipline secure federated machine learning with data and model provenance tracking which has come to be one of Ryan's core foci.  Outside of SLAC, Ryan serves on the advisory board of the non-profit, Enterprise Neurosystem, a community leveraging open-source and maker-friendly technologies to help ensure climate, agricultural, and economic resilience to emerging global challenges domestically and internationally through partnerships across the technology sector and with the USDA, the Department of State, and the UN.
+
 
 ## Agenda
 Nov 14, 2022 (Dallas, TX local time)
 
 <div id="agenda-table"></div>
 
-|                   | Speaker                   | Title                                                                           |
-|------------------:|---------------------------|---------------------------------------------------------------------------------|
-| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                 |
-| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning    |
-| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning              |
-| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                |
-| 10:05AM - 10:30AM | TBD                       | TBD                                                                             |
-| 10:30AM - 10:55AM | TBD                       | TBD                                                                             |
-| 10:55AM - 11:20AM | TBD                       | TBD                                                                             |
-| 11:20AM - 12:00PM | Panel Discussion          |                                                                                 |
+|                   | Speaker                   | Title                                                                              |
+|------------------:|---------------------------|------------------------------------------------------------------------------------|
+| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                    |
+| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning       |
+| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning                 |
+| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                   |
+| 10:05AM - 10:30AM | Ryan Coffee               | Toward a Secure Federated Infrastructure for AI-Accelerated Multi-Facility Science |
+| 10:30AM - 10:55AM | TBD                       | TBD                                                                                |
+| 10:55AM - 11:20AM | TBD                       | TBD                                                                                |
+| 11:20AM - 12:00PM | Panel Discussion          |                                                                                    |
 
 
 <br/>
