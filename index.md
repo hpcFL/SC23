@@ -33,8 +33,7 @@ Dr. Eric Lancon is the Director of the Scientific Data and Computing Center at B
 
 <div class="bio-image"><img src="images/irina-rish.jpg"></div>
 
-Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM), and a core member of Mila - Quebec AI Institute. She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Dr Rish received her MSc and PhD in AI from University of California, Irvine and MSc in Applied Mathematics from Moscow Gubkin Institute. Before joining UdeM in 2019, Irina was a research scientist at the IBM T.J. Watson Research Center, where she worked on various projects at the intersection of neuroscience and AI, and led the Neuro-AI challenge. She received multiple IBM awards, including IBM Eminence & Excellence Award and IBM Outstanding Innovation Award in 2018, IBM Outstanding Technical Achievement Award in 2017, and IBM Research Accomplishment Award in 2009. Dr. Rish holds 64 patents, has published over 70 peer-reviewed research papers, several book chapters, three edited books, and a monograph on Sparse Modeling.
-
+Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member of MILA - Quebec AI Institute, where she leads the Autonomous AI Lab. She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Irina's current research interests include training and analyzing the behavior of large-scale neural network models (foundation models), neural scaling laws, as well as continual learning, out-of-distribution generalization, and robustness at scale.  
 
 
 ### Feiyi Wang
@@ -101,16 +100,16 @@ Nov 14, 2022 (Dallas, TX local time)
 
 <div id="agenda-table"></div>
 
-|                   | Speaker                   | Title                                                                              |
-|------------------:|---------------------------|------------------------------------------------------------------------------------|
-| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                    |
-| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning       |
-| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning                 |
-| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                   |
-| 10:05AM - 10:30AM | Ryan Coffee               | Toward a Secure Federated Infrastructure for AI-Accelerated Multi-Facility Science |
-| 10:30AM - 10:55AM | TBD                       | TBD                                                                                |
-| 10:55AM - 11:20AM | TBD                       | TBD                                                                                |
-| 11:20AM - 12:00PM | Panel Discussion          |                                                                                    |
+|                   | Speaker                   | Title                                                                                                 |
+|------------------:|---------------------------|-------------------------------------------------------------------------------------------------------|
+| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                                       |
+| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning                          |
+| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning                                    |
+| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                                      |
+| 10:05AM - 10:30AM | Ryan Coffee               | Toward a Secure Federated Infrastructure for AI-Accelerated Multi-Facility Science                    |
+| 10:30AM - 10:55AM | Irina Rish                | Divide and Conquer: Scaling AI via Federated Learning and Distributed Alternatives to Backpropagation |
+| 10:55AM - 11:20AM | TBD                       | TBD                                                                                                   |
+| 11:20AM - 12:00PM | Panel Discussion          |                                                                                                       |
 
 
 <br/>
