@@ -22,16 +22,16 @@ Dr. Tourassi’s research background and interests are in artificial intelligenc
 ### Eric Lançon
 *Brookhaven National Laboratory*
 
-<div class="bio-image"><img src="images/eric.png"></div>
+<div class="bio-image"><img src="images/e-lancon.png"></div>
 
-Dr. Eric Lancon is the Director of the Scientific Data and Computing Center at Brookhaven National Laboratory. He worked at CERN (European Laboratory for Particle Physics, Geneva, Switzerland), where he held leadership positions in computing for the Large Hadron Collider (LHC). He developed international project s on distributed computing in China, Japan, and Romania.  He has interests in data management and data science. He obtained a Ph.D. in particle physics.
+Dr. Eric Lançon is the Director of the Scientific Data and Computing Center at Brookhaven National Laboratory. He worked at CERN (European Laboratory for Particle Physics, Geneva, Switzerland), where he held leadership positions in computing for the Large Hadron Collider (LHC). He developed international project s on distributed computing in China, Japan, and Romania.  He has interests in data management and data science. He obtained a Ph.D. in particle physics.
 
 
 
 ### Irina Rish
 *Université de Montréal*
 
-<div class="bio-image"><img src="images/irina-rish.jpg"></div>
+<div class="bio-image"><img src="images/i-rish.jpg"></div>
 
 Irina Rish is a Full Professor in the Computer Science and Operations Research Department at the Université de Montréal (UdeM) and a core faculty member of MILA - Quebec AI Institute, where she leads the Autonomous AI Lab. She holds a Canada Excellence Research Chair (CERC) in Autonomous AI and a Canadian Institute for Advanced Research (CIFAR) Canada AI Chair. Irina's current research interests include training and analyzing the behavior of large-scale neural network models (foundation models), neural scaling laws, as well as continual learning, out-of-distribution generalization, and robustness at scale.  
 
@@ -39,7 +39,7 @@ Irina Rish is a Full Professor in the Computer Science and Operations Research D
 ### Feiyi Wang
 *Group Leader, Analytics and AI Methods at Scale, Oak Ridge National Laboratory*
 
-<div class="bio-image"><img src="images/feiyi.png"></div>
+<div class="bio-image"><img src="images/f-wang.png"></div>
 
 Feiyi Wang received his Ph.D. in Computer Engineering from North Carolina
 State University (NCSU). Prior joining the Oak Ridge National Laboratory
@@ -66,7 +66,7 @@ Our workshop will aim to gather stakeholders from academia, federal agencies, in
 ### Jian Liu
 *Assistant Professor, The University of Tennessee*
 
-<div class="bio-image"><img src="images/jian-liu.jpg"/></div>
+<div class="bio-image"><img src="images/j-liu.jpg"/></div>
 
 Jian Liu is an Assistant Professor in the Min H. Kao Department of Electrical Engineering and Computer Science at The University of Tennessee, Knoxville (UTK). He leads Mobile Sensing and Intelligence Security (MoSIS) Lab @ UTK. Before joining UTK, Dr. Liu received his Ph.D. degree from Rutgers, The State University of New Jersey. His research interests span Robust and Trustworthy AI and ML, Mobile Security, Mobile and Wearable Computing, and Smart Healthcare. His research work has been published at top-tier security/mobile-computing/HCI/AI venues (e.g., ACM MobiCom, IEEE S&P, ACM CCS, CVPR, AAAI, ECCV, ACM MobiSys, ACM SenSys, ACM UbiComp, and ICASSP) and has been regularly featured in the media including BBC News, Yahoo News, MIT Technology Review, NBC New York, IEEE Spectrum, WCBS TV, and Voice of America TV, etc. He is the recipient of multiple awards, including two Best Paper Awards at IEEE SECON 2017 and IEEE CNS 2018, ACM SigMobile Research Highlights 2022, and ECE Graduate Program Academic Achievement Award at Rutgers, etc. He also filed six U.S. patents, two of which have been licensed to industrial companies. For more information, please refer to his homepage at: <https://web.eecs.utk.edu/~jliu/>
 
