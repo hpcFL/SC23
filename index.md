@@ -41,17 +41,7 @@ Irina Rish is a Full Professor in the Computer Science and Operations Research D
 
 <div class="bio-image"><img src="images/f-wang.png"></div>
 
-Feiyi Wang received his Ph.D. in Computer Engineering from North Carolina
-State University (NCSU). Prior joining the Oak Ridge National Laboratory
-(ORNL), he was a principal research scientist at Microelectronic Center of
-North Carolina (MCNC) and the lead PI and Co-PI for several DARPA-funded
-projects. He is a currently a Senior Research Scientist and the Group Leader
-of Analytics and AI methods at Scale Group (AAIMS) at National Center for
-Computational Sciences of ORNL. His research interests include large-scale
-data analytics, distributed machine learning and scalable benchmarking, high
-performance storage system, parallel I/O and file systems.  Dr. Wang held
-Joint Faculty Professor of ECE Department, Bredesen Center Faculty position at
-University of Tennessee. He is also a Senior Member of IEEE.
+Feiyi Wang received his Ph.D. in Computer Engineering from North Carolina State University (NCSU). Prior joining the Oak Ridge National Laboratory (ORNL), he was a principal research scientist at Microelectronic Center of North Carolina (MCNC) and the lead PI and Co-PI for several DARPA-funded projects. He is a currently a Senior Research Scientist and the Group Leader of Analytics and AI methods at Scale Group (AAIMS) at National Center for Computational Sciences of ORNL. His research interests include large-scale data analytics, distributed machine learning and scalable benchmarking, high performance storage system, parallel I/O and file systems.  Dr. Wang held Joint Faculty Professor of ECE Department, Bredesen Center Faculty position at University of Tennessee. He is also a Senior Member of IEEE.
 
 
 
