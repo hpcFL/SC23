@@ -100,16 +100,16 @@ Nov 14, 2022 (Dallas, TX local time)
 
 <div id="agenda-table"></div>
 
-|                   | Speaker                   | Title                                                                                                 |
-|------------------:|---------------------------|-------------------------------------------------------------------------------------------------------|
-| 8:30AM - 8:35AM   | Georgia Tourassi          | Opening Remarks                                                                                       |
-| 8:35AM - 9:15AM   | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning                          |
-| 9:15AM - 9:40AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning                                    |
-| 9:40AM - 10:05AM  | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                                      |
-| 10:05AM - 10:30AM | Ryan Coffee               | Toward a Secure Federated Infrastructure for AI-Accelerated Multi-Facility Science                    |
-| 10:30AM - 10:55AM | Irina Rish                | Divide and Conquer: Scaling AI via Federated Learning and Distributed Alternatives to Backpropagation |
-| 10:55AM - 11:20AM | TBD                       | TBD                                                                                                   |
-| 11:20AM - 12:00PM | Panel Discussion          |                                                                                                       |
+|                     | Speaker                   | Title                                                                                                 |
+|--------------------:|---------------------------|-------------------------------------------------------------------------------------------------------|
+| 8:30 AM - 8:40 AM   | Georgia Tourassi          | Opening Remarks                                                                                       |
+| 8:40 AM - 9:10 AM   | Irina Rish                | Divide and Conquer: Scaling AI via Federated Learning and Distributed Alternatives to Backpropagation |
+| 9:10 AM - 9:35 AM   | Sathyanarayanan Manamohan | Swarm Learning – Privacy preserving decentralized machine learning                                    |
+| 8:35 AM - 10:00 AM  | Jian Liu                  | Behind Closed Doors: Exploring Privacy Vulnerabilities in Federated Learning                          |
+| 10:00 AM - 10:30 AM | Break                     |                                                                                                       |
+| 10:30 AM - 10:55 AM | Ryan Coffee               | Toward a Secure Federated Infrastructure for AI-Accelerated Multi-Facility Science                    |
+| 10:55 AM - 11:20 AM | Heidi Hanson              | Federated Learning with Healthcare Data at Scale                                                      |
+| 11:20 AM - 12:00 PM | Panel Discussion          |                                                                                                       |
 
 
 <br/>
