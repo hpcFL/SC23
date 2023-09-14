@@ -87,7 +87,7 @@ Heidi is the Group Lead of Biostatistics and Biomedical Informatics at Oak Ridge
 
 
 ## Agenda
-Nov 14, 2022 (Dallas, TX local time)
+Nov 17th, 2023 (Denver, CO. local time)
 
 <div id="agenda-table"></div>
 
